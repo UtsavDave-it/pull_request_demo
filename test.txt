@@ -1,3 +1,2 @@
 this is a test file
-and new changes make them.
 fetch check only changes
